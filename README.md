@@ -6,6 +6,6 @@
 4. Ejectuar `npm run m:run` para crear toda la estrutura de la base de datos.
 5. Llenar la base de datos con los datos de prueba ejecutando `npm run seed`
 6. Ejecutar `npm run dev` para levantar el proyecto en modo desarrollo
-7. El src/util existe un admin creado por defecto para pruebas
+7. En src/util existe un admin creado por defecto para pruebas
 
 
